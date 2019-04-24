@@ -1,0 +1,12 @@
+﻿  student.cpp
+C:\Users\Тимур\source\repos\Project1\Project1\vector_.h(27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Тимур\source\repos\Project1\Project1\vector_.h(34): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Тимур\source\repos\Project1\Project1\vector_.h(43): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Тимур\source\repos\Project1\Project1\vector_.h(51): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Тимур\source\repos\Project1\Project1\student.cpp(27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Тимур\source\repos\Project1\Project1\student.cpp(102): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Тимур\source\repos\Project1\Project1\student.cpp(94): warning C4715: student::operator=: значение возвращается не при всех путях выполнения
+C:\Users\Тимур\source\repos\Project1\Project1\student.cpp(106): warning C4172: возвращение адреса локальной или временной переменной : os
+C:\Users\Тимур\source\repos\Project1\Project1\student.cpp(121): warning C4172: возвращение адреса локальной или временной переменной : is
+MSVCRTD.lib(exe_main.obj) : error LNK2019: ссылка на неразрешенный внешний символ _main в функции "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\Тимур\source\repos\Project1\Debug\Project1.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
